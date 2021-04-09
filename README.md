@@ -1,2 +1,2 @@
-# anime_with_ssl_planing
-Anime List with ssl planing
+# myanimelist
+This app for learning ssl planing
